@@ -3,11 +3,11 @@
                      Personal portfolio made by using Tailwind CSS.
 
 
-      ##Technologies used :
+      ## Technologies used :
 
              .Tailwind CSS
 
 
-      ##Features:
+      ## Features:
 
             .Used basic Tailwind Classes .
